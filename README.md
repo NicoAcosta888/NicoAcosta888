@@ -22,13 +22,15 @@ Uno de mis sistemas se usa todos los días en un comercio real.
 
 ### POSitive · Punto de venta
 
-App de escritorio con la que un local de insumos de panadería vende, factura y controla su stock. **En uso diario desde 2026.**
+App de escritorio con la que un local de insumos de panadería vende, factura y controla su stock. **En uso diario desde 2026 · v0.19.**
 
 - Venta con lector de códigos, productos por peso y kits
+- Precios con costo y % de ganancia, cuenta corriente con resumen en PDF
 - Factura electrónica con ARCA (CAE y QR)
 - Stock por lote con vencimientos y etiquetas con código de barras
 - Funciona sin internet, con respaldo automático en la nube
-- Catálogo web con precios en vivo y pedidos por WhatsApp
+- Catálogo web con precios en vivo, kits y pedidos por WhatsApp
+- 75 pruebas automáticas y más de 40 recorridos de punta a punta
 
 `Electron` `Node.js` `SQLite` `Google Apps Script` `Playwright`
 
